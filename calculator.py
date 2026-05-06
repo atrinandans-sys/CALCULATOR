@@ -45,11 +45,3 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
-
-
-x = float (input ("Enter a number :"))
-y = float (input (" Enter a second  number :"))
-sum = x + y 
-print ( sum )
-sum += 5
-print (sum)
